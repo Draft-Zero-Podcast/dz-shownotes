@@ -15,7 +15,7 @@ post_date: 2018-04-19 22:12:59
   Computer-generated transcript.
 </p> Edit it on GitHub: 
 
-<https://github.com/Draft-Zero-Podcast/dz-transcripts/blob/master/DZ-50.vtt> Draft Zero: a screenwriting podcast <a href="http://www.draft-zero.com" target="_blank" rel="noopener">http://www.draft-zero.com</a> https://www.youtube.com/watch?v=ND1_3K3xfVw 
+<https://github.com/Draft-Zero-Podcast/dz-transcripts/blob/master/DZ-50.vtt> https://www.youtube.com/watch?v=ND1_3K3xfVw 
 ## Transcript {#chapter}
 
 **Stu Willis:** <small style="opacity: 0.5;">[0:00]</small> <span title="0:00 - 0:11">And that's something we should have pointed out of the beginning and maybe we should point out the beginning buy you anything this and say something about Little Miss Sunshine yourself and part of the reason that herself is it there is a lack of a Cleveland.</span> <span title="0:13 - 0:14">As we all go into.</span> **Chas Fisher:** <small style="opacity: 0.5;">[0:22]</small> <span title="0:22 - 0:24">Hi I'm Chas Fisher.</span> **Stu Willis:** <small style="opacity: 0.5;">[0:24]</small> <span title="0:24 - 0:25">And I'm still Willis.</span> **Chas Fisher:** <small style="opacity: 0.5;">[0:25]</small> <span title="0:25 - 0:31">And welcome to draught Xero a podcast way to Aussie filmmakers try to work out what makes great scream players work.</span> **Stu Willis:** <small style="opacity: 0.5;">[0:31]</small> <span title="0:31 - 0:34">Any Miss episode part 2,</span> 
