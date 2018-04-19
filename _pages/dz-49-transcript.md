@@ -1,6 +1,6 @@
 ---
 ID: 748
-post_title: 'DZ-49  &#8211; Transcript'
+post_title: DZ-49
 author: draftzero
 post_excerpt: ""
 layout: page
