@@ -4,7 +4,8 @@ post_title: DZ-51
 author: draftzero
 post_excerpt: ""
 layout: page
-permalink: http://draft-zero.com/transcripts/dz-51/
+permalink: >
+  http://draft-zero.com/transcripts/dz-51-transcript/
 published: true
 post_date: 2018-05-31 12:41:44
 ---
