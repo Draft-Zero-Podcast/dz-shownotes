@@ -1,10 +1,11 @@
 ---
 ID: 947
-post_title: ""
+post_title: 'Dz-52: Antagonists! (Part 4) &#8211; Vs Systems'
 author: draftzero
 post_excerpt: ""
 layout: page
-permalink: http://draft-zero.com/transcripts/947-2/
+permalink: >
+  http://draft-zero.com/transcripts/dz-52-transcript/
 published: true
 post_date: 2018-06-28 22:04:16
 ---
