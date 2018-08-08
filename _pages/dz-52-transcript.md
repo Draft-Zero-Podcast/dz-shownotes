@@ -1,6 +1,6 @@
 ---
 ID: 947
-post_title: 'Dz-52: Antagonists! (Part 4) &#8211; Vs Systems'
+post_title: DZ-52
 author: draftzero
 post_excerpt: ""
 layout: page
