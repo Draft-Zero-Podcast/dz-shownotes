@@ -1,10 +1,11 @@
 ---
 ID: 983
-post_title: DZ-53 Transcript
+post_title: DZ-53
 author: draftzero
 post_excerpt: ""
 layout: page
-permalink: http://draft-zero.com/dz-53-transcript/
+permalink: >
+  http://draft-zero.com/transcripts/dz-53-transcript/
 published: true
 post_date: 2018-09-07 20:52:40
 ---
