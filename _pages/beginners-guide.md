@@ -4,8 +4,9 @@ post_title: Beginners Guide to Draft Zero
 author: draftzero
 post_excerpt: ""
 layout: page
-permalink: http://draft-zero.com/?page_id=1071
-published: false
+permalink: http://draft-zero.com/beginners-guide/
+published: true
+post_date: 2019-05-02 00:07:03
 ---
 ## STRUCTURE (MACRO TOOLS)
 
