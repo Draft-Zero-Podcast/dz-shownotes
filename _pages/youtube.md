@@ -1,10 +1,11 @@
 ---
 ID: 1251
-post_title: youtube
+post_title: YouTube
 author: draftzero
 post_excerpt: ""
 layout: page
-permalink: http://draft-zero.com/youtube/
+permalink: >
+  https://www.youtube.com/channel/UCIEz5b9FMNa7Tj8DkcJQWRA
 published: true
 post_date: 2020-04-10 13:10:37
 ---
