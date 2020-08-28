@@ -19,7 +19,7 @@ post_date: 2019-05-02 00:07:03
 *   [**DZ-10: Midpoint Reversals and The Ride**  
     *How can the middle of your film pivot so much that it pulls the rug out of your audience?*][4]
 *   **[DZ-32: High-Tension Sequences][5]  
-    ***How can you recreate the feeling of cinematic high-tension on the page?***  
+    **[*How can you recreate the feeling of cinematic high-tension on the page?*][5]**  
     **
 
 ### PROTOGANISTS/ANTAGONISTS
@@ -31,7 +31,7 @@ post_date: 2019-05-02 00:07:03
 *   **[DZ-51: Antagonists! (Part 3) - vs Nature][8]**  
     *[What changes in your story if your antagonistic forces can’t be bargained with?][8]*
 *   [**DZ-52: Antagonists! (Part 4) – vs Systems**][9]  
-    *How do systems pressure your characters to change?*
+    [*How do systems pressure your characters to change?*][9]
 *   [**DZ-53: Antagonists! (Part 5) – vs Audience**][10]  
     *What if there is no antagonist?*
 *   [**DZ-33: Protagonist vs Hero – Dawn of Character Function**][11]  
@@ -41,14 +41,16 @@ post_date: 2019-05-02 00:07:03
 
 ### CHARACTER
 
-*   [**DZ-09: Characterising Introductions**][13]
-*   [**DZ-03: Making unlikeable protagonists compelling**][14]
+*   [**DZ-09: Characterising Introductions**][13]  
+    *Can the introduction of a character be so good that the character doesn’t need describing?*
+*   [**DZ-03: Making unlikeable protagonists compelling**][14]  
+    *How do you make obnoxious a-holes compelling?*
 *   [**DZ-55: Character Motivations (Part 1)**  
     *What to do when a reader says “I don’t buy that he/she would do that”?*][15]
 *   [**DZ-56: Character Motivations (Part 2)**  
     *Workshopping ways to fix character motivations*][16]
 *   **[DZ-19: Car-Crash Characters][17]  
-    ***How do you make unlikeable characters compelling to watch… in drama?***  
+    **<a href="_wp_link_placeholder" data-wplink-edit="true"><em>How do you make unlikeable characters compelling to watch… in drama?</em></a>**  
     **
 
 ### FIRST ACT PROBLEMS
@@ -65,9 +67,10 @@ post_date: 2019-05-02 00:07:03
 
 ### SCENE WORK (MICRO TOOLS)
 
+*   [**DZ-05: Shifting audience point of view and heightened emotions**][21]  
+    *Can forcing your audience to ask questions – and then answering them – trigger an emotional response?*
 *   [**DZ-40: Tactics and Scenes**  
-    *How do tactics make your characters and scenes more dynamic?*][21]
-*   [**DZ-05: Shifting audience point of view and heightened emotions**][22]
+    *How do tactics make your characters and scenes more dynamic?*][22]
 *   [**DZ-29: Showdowns & Scene Structure**][23]  
     *What can fight scenes – whether physical or verbal – teach us about structuring any scene?*
 *   [**DZ-08: Status Transactions**][24]  
@@ -86,18 +89,22 @@ post_date: 2019-05-02 00:07:03
     *How does removing character and plot question force your audience to engage with theme?*][3]
 *   [**DZ-41: Theme and Worldview**][27]  
     *How can your characters’ worldview dramatise your theme?*
+*   [**DZ-45: Arguments of the Scene**  
+    *How can you dramatise your theme on a scene level?*][28]
 
 ### WORDS ON THE PAGE
 
-*   **[DZ-16: Masters of Time and Whitespace][28]  
-    ***How does manipulating time on the page make your script feel more cinematic?***  
+*   **[DZ-16: Masters of Time and Whitespace][29]  
+    **[*How does manipulating time on the page make your script feel more cinematic?*][29]**  
     **
 *   [**DZ-60: Unfilmables and Unscriptables (Part 1) - Engaging imagination**  
-    How can unfilmables enhance the experience of your script?][29]
+    *How can unfilmables enhance the experience of your script?*][30]
 *   [**DZ-61: Unfilmables and Unscriptables (Part 2) - Moments of Awe**  
-    *How can unfilmables help you create those cinematic moments of awe?*][30]
+    *How can unfilmables help you create those cinematic moments of awe?*][31]
 *   [**DZ-62: Unfilmables and Unscriptables (Part 3) - As Ifs & Emotional context  
-    ***How do you know if your unfilmable is good... or if you’re just being a wanker? *][31]
+    ***How do you know if your unfilmable is good... or if you’re just being a wanker? *][32]
+*   **[DZ-21: Scene Transitions and the Hook][33]**  
+    *[How can scene transitions do more than just move from one location to another?][33]*
 
 <!-- wp:paragraph -->
 
@@ -125,14 +132,16 @@ post_date: 2019-05-02 00:07:03
  [18]: http://draft-zero.com/2017/dz-44/
  [19]: http://draft-zero.com/2014/dz-15/
  [20]: http://draft-zero.com/2014/dz-04/
- [21]: http://draft-zero.com/2017/dz-40/
- [22]: http://draft-zero.com/2014/dz-05/
+ [21]: http://draft-zero.com/2014/dz-05/
+ [22]: http://draft-zero.com/2017/dz-40/
  [23]: http://draft-zero.com/2016/dz-29/
  [24]: http://draft-zero.com/2014/dz-08/
  [25]: http://draft-zero.com/2016/dz-31/
  [26]: http://draft-zero.com/2019/dz-63/
  [27]: http://draft-zero.com/2017/dz-41/
- [28]: http://draft-zero.com/2014/dz-16/
- [29]: http://draft-zero.com/2019/dz-60/
- [30]: http://draft-zero.com/2019/dz-61/
- [31]: http://draft-zero.com/2019/dz-62/
+ [28]: http://draft-zero.com/2017/dz-45/
+ [29]: http://draft-zero.com/2014/dz-16/
+ [30]: http://draft-zero.com/2019/dz-60/
+ [31]: http://draft-zero.com/2019/dz-61/
+ [32]: http://draft-zero.com/2019/dz-62/
+ [33]: http://draft-zero.com/2015/dz-21/
